@@ -1,0 +1,15 @@
+ Team  Points   Goals won  Goals lost
+  FCM      65          42          14
+  FCK      56          47          29
+  AGF      47          42          28
+  BIF      42          47          37
+  FCN      41          48          35
+  AaB      38          44          33
+  RFC      35          39          35
+  ACH      34          25          44
+   OB      33          34          30
+  LBK      32          31          45
+  SDR      27          31          44
+  HOB      23          25          35
+  EFB      18          22          44
+  SIF      16          31          55
